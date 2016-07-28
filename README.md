@@ -50,3 +50,11 @@ Running them in the following order will follow the progression of the project.
 2. `bundle install`
 3. `rspec spec/quick_sort_spec.rb`
 4. `cd ../..`
+
+
+#### Binary Search Trees
+
+1. `cd W12D4_binarysearchtree/joyjing_bst_avl`
+2. `bundle install`
+3. `rspec spec/bst_spec.rb.rb`
+4. `cd ../..`
