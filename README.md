@@ -56,5 +56,14 @@ Running them in the following order will follow the progression of the project.
 
 1. `cd W12D4_binarysearchtree/joyjing_bst_avl`
 2. `bundle install`
-3. `rspec spec/bst_spec.rb.rb`
+3. `rspec spec/bst_spec.rb`
 4. `cd ../..`
+
+
+#### Graphs & Topological Sorts
+
+1. `cd W13D4_graphs/joyjing_graphs`
+2. `bundle install`
+3. `rspec spec/graph_spec.rb`
+4. `rspec spec/topological_sort_spec.rb`
+5. `cd ../..`
